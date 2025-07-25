@@ -12,7 +12,7 @@ const availableTags = [
   'Data Structures', 'Algorithms', 'C++', 'Java', 'Python', 'JavaScript', 'React',
   'Node.js', 'Database', 'SQL', 'Web Development', 'Machine Learning', 'AI',
   'Networking', 'Operating Systems', 'Software Engineering', 'Mathematics',
-  'Physics', 'Chemistry', 'Theory', 'Practical', 'Assignment Help'
+  'Physics', 'Chemistry', 'Theory', 'Practical', 'Assignment Help' , 'Placements'
 ];
 
 const departments = [
